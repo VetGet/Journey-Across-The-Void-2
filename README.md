@@ -15,11 +15,3 @@ ModernGamingWorld, MasterSloth1, and Warbringer12, Lectavison,and Tylerun
 📖 Additional Credits
 
 The Feed The Beast Team for use of their mods in Curseforge packs.
-
-
-
-
-
-
-
-![Image of Yaktocat](https://www.bisecthosting.com/images/logos/logo.svg)
