@@ -36,3 +36,8 @@ ModernGamingWorld, MasterSloth1, and Warbringer12, Lectavison,and Tylerun
 ## Additional Credits:
 
 The Feed The Beast Team for use of their mods in Curseforge packs.
+
+
+## Other Projects
+- [Mod Slothcraft](https://www.curseforge.com/minecraft/mc-mods/slothcraft)
+- [Monumental Experience](https://www.curseforge.com/minecraft/modpacks/monumental-experience)
