@@ -8,6 +8,13 @@
 
 [curseLink]: https://www.curseforge.com/minecraft/modpacks/journey-across-the-void-2
 
+## Pack Downloads
+Released files:
+- [Curse/Twitch](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void-2)
+- [Discord](https://discord.gg/wFtUTgZ)
+
+
+
 
 📖 About the Pack
 
