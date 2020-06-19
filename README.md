@@ -24,6 +24,10 @@ Welcome to Journey Across The Void 2! Journey Across The Void 2 will offer you t
 ## Server Hosting
 
 
+## Mod List
+[Mod List](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void-2/relations/dependencies)
+
+
 ## Modpack Developers:
 
 ModernGamingWorld, MasterSloth1, and Warbringer12, Lectavison,and Tylerun
