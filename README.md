@@ -1,4 +1,12 @@
-# Journey-Across-The-Void-2
+# Journey-Across-The-Void-2 [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
+
+[discordImg]: https://img.shields.io/discord/554449878282010633?label=Discord&logo=Discord
+
+[discordLink]: https://discord.gg/wFtUTgZ
+
+[curseImg]: http://cf.way2muchnoise.eu/384132.svg
+
+[curseLink]: https://www.curseforge.com/minecraft/modpacks/journey-across-the-void-2
 
 
 📖 About the Pack
