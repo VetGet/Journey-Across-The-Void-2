@@ -7,30 +7,42 @@ assignees: ''
 
 ---
 
-**Modpack Version**
+**Issue description:**
 
-Type Modpack Version here, Note do not use latest
+ 
 
+ 
+**Steps to reproduce:**
+1.
+2.
+3.
 
-**Minecraft Version**
+ 
+**Version (make sure you are on the latest version before reporting, Do not put latest or last updated):**
 
-Type Minecraft Version here, Note do not use latest
-
-
-**Forge Version**
-
-Type Forge Version Here, Note do not use latest
-
-**Did you change anything within the pack**
-
-Type Yes or No, This way we can know for sure if its on us or something you may have changed.
+**Forge Version:**
 
 
-**Issue**
 
-Please describe your issue here
+**Server Version:**
 
 
-**Logs**
 
-Input Pastebin or gist link to crash-report or latest log
+**Modpack Version:**
+
+
+
+
+**Have you customized any settings in the pack prior to posting your issue, Please type Yes or No below.**
+
+ 
+If a  Crash log is relevant for this issue, link it here using one of the sites below.)
+Do not post your crash log without using one of the sites below.
+
+ 
+
+**Gist:** https://gist.github.com/
+
+**Pastebin:** https://pastebin.com/
+
+**Hastebin:** https://hastebin.com/
