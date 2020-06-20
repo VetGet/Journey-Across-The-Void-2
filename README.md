@@ -30,7 +30,7 @@ Welcome to Journey Across The Void 2! Journey Across The Void 2 will offer you t
 
 ## Modpack Developers:
 
-ModernGamingWorld, MasterSloth1, and Warbringer12, Lectavison,and Tylerun
+ModernGamingWorld, MasterSloth1, and Warbringer12, Lectavison, and Tylerun
 
 
 ## Additional Credits:
