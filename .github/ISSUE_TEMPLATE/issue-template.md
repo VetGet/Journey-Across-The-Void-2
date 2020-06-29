@@ -1,5 +1,5 @@
 ---
-name: issue template
+name: Issue Template
 about: Describe this issue's purpose here.
 title: ''
 labels: bug
