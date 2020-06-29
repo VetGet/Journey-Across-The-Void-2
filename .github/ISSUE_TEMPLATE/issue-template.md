@@ -2,7 +2,7 @@
 name: Issue Template
 about: Describe this issue's purpose here.
 title: ''
-labels: bug
+labels: 1.16, bug
 assignees: ''
 
 ---
