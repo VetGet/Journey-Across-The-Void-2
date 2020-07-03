@@ -5,11 +5,19 @@
 - Changed Version Checking to false in Mod configs that have Version checking options
 - Fixed not having a custom Option.txt
 - Fixed/Disabled all Ore Gen
+- Fixed missing Mod tools in Client tweaks config
+- Fixed Hostile Radius from Campfire to 10
+- Fixed Mega Torch Radius from Torch to 15
 
 **JEI**
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Collective** (https://www.curseforge.com/minecraft/mc-mods/collective)
+- **Storage Drawers** (https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+- **Uppers** (https://www.curseforge.com/minecraft/mc-mods/uppers)
+- **Mod Name Tooltip** (https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
+- **Light Overlay** (https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 - **Main Menu** (https://www.curseforge.com/minecraft/mc-mods/minemenu)
 - **Patchouli** (https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - **Compressium** (https://www.curseforge.com/minecraft/mc-mods/compressium)
