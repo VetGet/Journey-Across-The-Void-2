@@ -13,6 +13,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Random Patches** (https://www.curseforge.com/minecraft/mc-mods/randompatches)
 - **Collective** (https://www.curseforge.com/minecraft/mc-mods/collective)
 - **Storage Drawers** (https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - **Uppers** (https://www.curseforge.com/minecraft/mc-mods/uppers)
