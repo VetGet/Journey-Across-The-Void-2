@@ -14,6 +14,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Pam's Harvestcraft 2 Food Core** (https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 - **Item Zoom** (https://www.curseforge.com/minecraft/mc-mods/itemzoom)
 - **Random Patches** (https://www.curseforge.com/minecraft/mc-mods/randompatches)
 - **Collective** (https://www.curseforge.com/minecraft/mc-mods/collective)
