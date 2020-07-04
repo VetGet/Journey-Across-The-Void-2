@@ -8,11 +8,13 @@
 - Fixed missing Mod tools in Client tweaks config
 - Fixed Hostile Radius from Campfire to 10
 - Fixed Mega Torch Radius from Torch to 15
+- Changed amount to make Item zoom less in your face
 
 **JEI**
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Item Zoom** (https://www.curseforge.com/minecraft/mc-mods/itemzoom)
 - **Random Patches** (https://www.curseforge.com/minecraft/mc-mods/randompatches)
 - **Collective** (https://www.curseforge.com/minecraft/mc-mods/collective)
 - **Storage Drawers** (https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
