@@ -14,6 +14,8 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **CleanView** (https://www.curseforge.com/minecraft/mc-mods/cleanview)
+- **Engineer's Decor** (https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
 - **Pam's Harvestcraft 2 Food Core** (https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 - **Item Zoom** (https://www.curseforge.com/minecraft/mc-mods/itemzoom)
 - **Random Patches** (https://www.curseforge.com/minecraft/mc-mods/randompatches)
