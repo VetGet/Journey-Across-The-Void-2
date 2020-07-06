@@ -14,6 +14,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **AppleSkin** (https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2997288)
 - **CleanView** (https://www.curseforge.com/minecraft/mc-mods/cleanview)
 - **Engineer's Decor** (https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
 - **Pam's Harvestcraft 2 Food Core** (https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
