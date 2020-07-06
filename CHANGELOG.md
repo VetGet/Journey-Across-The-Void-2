@@ -14,6 +14,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Cosmetic Armor Reworked** (https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2997312)
 - **AppleSkin** (https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2997288)
 - **CleanView** (https://www.curseforge.com/minecraft/mc-mods/cleanview)
 - **Engineer's Decor** (https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
