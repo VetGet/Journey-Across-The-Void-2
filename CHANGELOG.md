@@ -14,6 +14,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **KleeSlabs** (https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/2998522)
 - **Cosmetic Armor Reworked** (https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2997312)
 - **AppleSkin** (https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2997288)
 - **CleanView** (https://www.curseforge.com/minecraft/mc-mods/cleanview)
