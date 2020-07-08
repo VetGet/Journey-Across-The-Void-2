@@ -14,6 +14,9 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Placebo** (https://www.curseforge.com/minecraft/mc-mods/placebo)
+- **Fast Furnace** (https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- **Fast Workbench** (https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 - **The One Probe** (https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - **Cooking For Blockheads** (https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 - **Farming For Blockheads** (https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
