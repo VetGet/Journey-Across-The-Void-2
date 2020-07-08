@@ -14,6 +14,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Toast Control** (https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - **Placebo** (https://www.curseforge.com/minecraft/mc-mods/placebo)
 - **Fast Furnace** (https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - **Fast Workbench** (https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
