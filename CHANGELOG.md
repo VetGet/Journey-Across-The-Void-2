@@ -14,6 +14,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **The One Probe** (https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - **Cooking For Blockheads** (https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 - **Farming For Blockheads** (https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
 - **FPS Reducer** (https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
