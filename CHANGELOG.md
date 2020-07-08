@@ -14,6 +14,8 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Cooking For Blockheads** (https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+- **Farming For Blockheads** (https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
 - **FPS Reducer** (https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
 - **KleeSlabs** (https://www.curseforge.com/minecraft/mc-mods/kleeslabs/files/2998522)
 - **Cosmetic Armor Reworked** (https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2997312)
