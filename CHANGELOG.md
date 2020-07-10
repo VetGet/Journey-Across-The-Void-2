@@ -14,6 +14,9 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Craft Tweaker** (https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+- **Mekanism** (https://www.curseforge.com/minecraft/mc-mods/mekanism)
+- **Mekanism Gen** (https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 - **Bookshelf** (https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 - **Toast Control** (https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - **Placebo** (https://www.curseforge.com/minecraft/mc-mods/placebo)
