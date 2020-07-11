@@ -14,6 +14,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Botany Pots** (https://www.curseforge.com/minecraft/mc-mods/botany-pots/files/3002407)
 - **Better Bedrock Generator** (https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator)
 - **Craft Tweaker** (https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 - **Mekanism** (https://www.curseforge.com/minecraft/mc-mods/mekanism)
