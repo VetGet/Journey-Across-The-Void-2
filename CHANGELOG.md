@@ -14,6 +14,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Better Bedrock Generator** (https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator)
 - **Craft Tweaker** (https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 - **Mekanism** (https://www.curseforge.com/minecraft/mc-mods/mekanism)
 - **Mekanism Gen** (https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
