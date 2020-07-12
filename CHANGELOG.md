@@ -18,6 +18,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Passable Foliage** (https://www.curseforge.com/minecraft/mc-mods/passable-foliage)
 - **Controlling**(https://www.curseforge.com/minecraft/mc-mods/controlling/files/3002652)
 - **Botany Pots** (https://www.curseforge.com/minecraft/mc-mods/botany-pots/files/3002407)
 - **Better Bedrock Generator** (https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator)
