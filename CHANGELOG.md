@@ -18,6 +18,8 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Immersive Engineering** (https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- **ToroHealth Damage** (https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)
 - **Passable Foliage** (https://www.curseforge.com/minecraft/mc-mods/passable-foliage)
 - **Controlling**(https://www.curseforge.com/minecraft/mc-mods/controlling/files/3002652)
 - **Botany Pots** (https://www.curseforge.com/minecraft/mc-mods/botany-pots/files/3002407)
