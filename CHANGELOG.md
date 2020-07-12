@@ -1,5 +1,9 @@
 # 1.0.0 (No Release Date set)
 
+**Added**
+- Custom New Vanilla Recipes Using Stone Cutter
+- Disabled Vanilla Crafting Recipes in favor of the Stone Cutter Recipes
+
 **Changed/Fixed**
 - Changed version Check from true to false in fml.toml
 - Changed Version Checking to false in Mod configs that have Version checking options
@@ -14,6 +18,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Controlling**(https://www.curseforge.com/minecraft/mc-mods/controlling/files/3002652)
 - **Botany Pots** (https://www.curseforge.com/minecraft/mc-mods/botany-pots/files/3002407)
 - **Better Bedrock Generator** (https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator)
 - **Craft Tweaker** (https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
