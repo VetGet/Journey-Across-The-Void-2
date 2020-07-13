@@ -1,6 +1,7 @@
 # 1.0.0 (No Release Date set)
 
 **Added**
+- More Custom Recipe to the Furnace
 - Custom New Vanilla Recipes Using Stone Cutter
 - Disabled Vanilla Crafting Recipes in favor of the Stone Cutter Recipes
 - Custom Recipes for Mekanism
