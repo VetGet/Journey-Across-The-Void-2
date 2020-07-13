@@ -4,6 +4,7 @@
 - Custom New Vanilla Recipes Using Stone Cutter
 - Disabled Vanilla Crafting Recipes in favor of the Stone Cutter Recipes
 - Custom Recipes for Mekanism
+- Custom Upper Recipe
 
 **Changed/Fixed**
 - Changed version Check from true to false in fml.toml
