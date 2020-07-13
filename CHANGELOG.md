@@ -5,6 +5,7 @@
 - Disabled Vanilla Crafting Recipes in favor of the Stone Cutter Recipes
 - Custom Recipes for Mekanism
 - Custom Upper Recipe
+- More Custom Recipe to the Campfire
 
 **Changed/Fixed**
 - Changed version Check from true to false in fml.toml
