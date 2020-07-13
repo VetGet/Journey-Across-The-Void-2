@@ -22,6 +22,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Gravestone Mod** (https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 - **Immersive Engineering** (https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - **ToroHealth Damage** (https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)
 - **Passable Foliage** (https://www.curseforge.com/minecraft/mc-mods/passable-foliage)
