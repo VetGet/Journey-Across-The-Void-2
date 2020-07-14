@@ -22,6 +22,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Bad Wither No Cookie Reloaded** (https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
 - **Gravestone Mod** (https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 - **Immersive Engineering** (https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - **ToroHealth Damage** (https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)
