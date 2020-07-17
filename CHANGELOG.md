@@ -23,6 +23,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **ReAuth** (https://www.curseforge.com/minecraft/mc-mods/reauth/files/3007481)
 - **Better Advancements** (https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - **AI Improvements** (https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 - **Bad Wither No Cookie Reloaded** (https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
