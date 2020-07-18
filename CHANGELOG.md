@@ -23,6 +23,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **Clumps (https://www.curseforge.com/minecraft/mc-mods/clumps)
 - **ReAuth** (https://www.curseforge.com/minecraft/mc-mods/reauth/files/3007481)
 - **Better Advancements** (https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - **AI Improvements** (https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
