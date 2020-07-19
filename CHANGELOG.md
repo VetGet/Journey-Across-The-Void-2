@@ -4,6 +4,7 @@
 
 
 **Changed/Fixed**
+- Fixed More Version Checking being enabled
 
 
 **JEI**
