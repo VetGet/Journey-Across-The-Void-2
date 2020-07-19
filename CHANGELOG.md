@@ -25,6 +25,7 @@
 - Hid stuff that is not needed to be visable
 
 **Added**
+- **OldJavaWarning** (https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
 - **FTB Ultimine (https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
 - **JER** (https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 - **Clumps** (https://www.curseforge.com/minecraft/mc-mods/clumps)
