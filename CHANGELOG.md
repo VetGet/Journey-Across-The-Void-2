@@ -1,4 +1,4 @@
-# 1.0.0 (No Release Date set)
+# 1.0.0 (Super early Alpha, Not even close to being a pack yet)
 
 **Added**
 - Alphabetical order inside our custom recipe scripts
