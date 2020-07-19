@@ -8,6 +8,8 @@
 - Custom Recipes for Mekanism
 - Custom Upper Recipe
 - More Custom Recipe to the Campfire
+- Custom Main Menu
+- Extended the Blocks to be Ultimine to 256
 
 **Changed/Fixed**
 - Changed version Check from true to false in fml.toml
@@ -15,15 +17,19 @@
 - Fixed not having a custom Option.txt
 - Fixed/Disabled all Ore Gen
 - Fixed missing Mod tools in Client tweaks config
-- Fixed Hostile Radius from Campfire to 10
-- Fixed Mega Torch Radius from Torch to 15
+- Fixed Hostile Radius from Campfire to 16
+- Fixed Mega Torch Radius from Torch to 32, Note updated yet
 - Changed amount to make Item zoom less in your face
 
 **JEI**
 - Hid stuff that is not needed to be visable
 
 **Added**
-- **Clumps (https://www.curseforge.com/minecraft/mc-mods/clumps)
+- **FTB Ultimine (https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
+- **JER** (https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- **Clumps** (https://www.curseforge.com/minecraft/mc-mods/clumps)
+- **Speedy Hopper**(https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)
+- **Speedy Ladder** (https://www.curseforge.com/minecraft/mc-mods/speedy-ladders)
 - **ReAuth** (https://www.curseforge.com/minecraft/mc-mods/reauth/files/3007481)
 - **Better Advancements** (https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - **AI Improvements** (https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
