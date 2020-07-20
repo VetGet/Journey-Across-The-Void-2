@@ -1,4 +1,4 @@
-# 1.0 (Super early Alpha, Not even close to being a pack yet)
+# 1.0 (NO ETA)
 
 **Added**
 - Alphabetical order inside our custom recipe scripts
