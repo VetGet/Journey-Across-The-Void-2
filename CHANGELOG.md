@@ -23,6 +23,7 @@
 - Hid stuff that is not needed to be visable
 
 **Mods Added**
+- **Polymorph** (https://www.curseforge.com/minecraft/mc-mods/polymorph)
 - **Enchantment Descriptions** (https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 - **OldJavaWarning** (https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
 - **FTB Ultimine** (https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
