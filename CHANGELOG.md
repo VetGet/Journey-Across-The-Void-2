@@ -1,33 +1,8 @@
-# 1.1 (Super early Alpha, Not even close to being a pack yet)
-
-**Added**
-
-
-**Changed/Fixed**
-- Fixed More Version Checking being enabled
-
-
-**JEI**
-
-
-**Mods Added**
-- **Enchantment Descriptions** (https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-
-**Removed**
-- **Nothing at this time**
-
-**Updated**
-- **Nothing at this time**
-
-
-
 # 1.0 (Super early Alpha, Not even close to being a pack yet)
 
 **Added**
 - Alphabetical order inside our custom recipe scripts
 - More Custom Recipe to the Furnace
-- Custom New Vanilla Recipes Using Stone Cutter
-- Disabled Vanilla Crafting Recipes in favor of the Stone Cutter Recipes
 - Custom Recipes for Mekanism
 - Custom Upper Recipe
 - More Custom Recipe to the Campfire
@@ -48,6 +23,7 @@
 - Hid stuff that is not needed to be visable
 
 **Mods Added**
+- **Enchantment Descriptions** (https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
 - **OldJavaWarning** (https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
 - **FTB Ultimine** (https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
 - **JER** (https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
