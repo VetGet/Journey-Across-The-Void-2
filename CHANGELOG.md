@@ -1,4 +1,4 @@
-# 1.0 (NO ETA)
+# 1.0
 
 **Added**
 - Alphabetical order inside our custom recipe scripts
