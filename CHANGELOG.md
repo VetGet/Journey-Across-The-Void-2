@@ -1,3 +1,26 @@
+# 1.1
+
+**Added**
+
+
+**Changed/Fixed**
+
+
+**JEI**
+- No Changes
+
+**Mods Added**
+- **Vanilla Tweaks** (https://www.curseforge.com/minecraft/mc-mods/vanillatweaks)
+
+**Removed**
+- **Nothing at this time**
+
+**Updated**
+- **Builders Crafts & Additions** (https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
+
+---------------------------------------------------------------------------------------------
+
+
 # 1.0
 
 **Added**
